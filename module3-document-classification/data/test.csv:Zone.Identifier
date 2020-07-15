@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.kaggle.com/c/whiskey-reviews-dspt5/data?select=test.csv
+HostUrl=https://storage.googleapis.com/kagglesdsdata/competitions/21713/1364935/test.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1594952025&Signature=cEoVMgD2blgotqROK67HkRhwmaNVBGkULjMbcx1CsICvnGe5mLBpdhZGOgvsbatZa8ZJQnWGSxKFXnBRYlLvfC6vxoa5FuR1d5%2Baetobb%2Fp80S%2FbLg2ejTe4ueYSG0FK5bf3CY9odXK1euSGOV6Qqil94UBOge4dV5qolrwH1mOHyRKXubmk4AWAwsH6TKsMrOymxID5ATXI26YiqV9YCDeVUTS%2BbuORGSj8l%2FKqBT6A4%2Bibj08FaUJNzfjPJa36kyo7UWGeqUqzgjtpnE4DjhUkqTG%2B%2F6DSF%2BtQiRj0iAv6OHLjBKlBoAvzx%2B%2Fbx95mB4On1SBSjCPJ%2BpYJFL120g%3D%3D&response-content-disposition=attachment%3B+filename%3Dtest.csv
